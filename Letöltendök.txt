@@ -1,0 +1,5 @@
+Letöltendök:
+bun install
+bun add react-router-dom axios framer-motion lucide-react
+bun add @vitejs/plugin-react -d
+bun add -d tailwindcss @tailwindcss/vite
